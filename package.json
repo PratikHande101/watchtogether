@@ -1,0 +1,26 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "description": "Pratik's template",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "socket.io": "^2.3.0",
+    "tape": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Pratik Hande",
+  "license": "BVCOE",
+  "engines": {
+    "node": "10.16.0"
+  }
+}
